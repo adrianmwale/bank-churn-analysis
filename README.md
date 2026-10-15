@@ -22,7 +22,7 @@ The data file is not included in this repo. Download it from the link above.
 
 ## Findings
 
-**Age.** Customers who left were older. The median age of leavers was [RUN: `df.groupby("Exited")["Age"].median()` AND FILL IN] compared with [FILL IN] for customers who stayed.
+**Age.** Customers who left were older. The median age of leavers was 45 compared with 36 for customers who stayed.
 
 **Country.** Customers in Germany churned at 32.4%, about double the rate in France (16.2%) and Spain (16.7%).
 
